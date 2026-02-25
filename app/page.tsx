@@ -14,7 +14,7 @@ export default function Home() {
     <div>
       메인페이지<br/>
       <a href="http://localhost:3000/company">Company 이동</a><br/>
-      <Link href="/company">회사페이지{totla}</Link>
+      <Link href="/company">회사페이지ffffff{totla}</Link>
       <div>
         <ul>
           {items.map((item) => (
